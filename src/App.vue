@@ -5,12 +5,10 @@
 
 <script>
 import topHeadSection from "@/components/topHeadSection.vue";
-import TopHeadSection from "@/components/topHeadSection.vue";
 export default {
   name: "app",
   components: {
     topHeadSection,
-    TopHeadSection,
   },
 };
 </script>
